@@ -6,5 +6,3 @@
 * Chatting 🗣️ [Discord](https://discord.gg/KMh2eNSdxV)
 * Announce 📣 [GitHub Releases](https://github.com/honojs/hono/releases) & [Twitter](https://twitter.com/honojs)
 * Contributing 👨‍💻 [Here](https://github.com/honojs)
-
-Enjoy!
